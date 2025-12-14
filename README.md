@@ -15,7 +15,12 @@ The project focuses on clean UI, smooth navigation, and a startup-ready look.
 - Login Screen
 - Create Account (Sign Up) Screen
 
-Flow:  
+---
+
+## 📱 Preview
+| Splash Screen | Login Screen | Create Account |
+|--------------|-------------|----------------|
+| ![](screenshots/splash.png) | ![](screenshots/login.png) | ![](screenshots/signup.png) | 
 **Splash → Login → Create Account**
 
 ---
@@ -54,29 +59,29 @@ Flow:
 🔀 App Flow
 **Splash Screen**
 
-Displays the Cignifi logo
+ -Displays the Cignifi logo
 
-Uses brand blue background
+ -Uses brand blue background
 
-Automatically navigates to Login screen
+ -Automatically navigates to Login screen
 
 **Login Screen**
 
-Email & Password input fields
+ -Email & Password input fields
 
-Sign in button
+ -Sign in button
 
-Social login UI buttons
+ -Social login UI buttons
 
-Navigation to Create Account screen
+ -Navigation to Create Account screen
 
 **Create Account Screen**
 
-Username, Email, Password fields
+ -Username, Email, Password fields
 
-Create account button
+ -Create account button
 
-Back navigation to Login screen
+ -Back navigation to Login screen
 
 ## 🎯 Purpose
 
@@ -95,8 +100,8 @@ This project was built to:
 This project is licensed under the MIT License.
 
 ## 👤 Author
-
-Cignifi
+**Fathia olousegoun**
+        Cignifi
 Built with ❤️ using Flutter
 
 
